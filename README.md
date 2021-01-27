@@ -4,21 +4,25 @@ ___
 
 ## Instructions
 
+
 ### Download
 Download the files.
 
-The SNP folder should contain:
 - SNPGrapher.R
+- GEMGrapher.R
+- GEMRegress.R
+
+SNPFiles folder containing:
 - ArabidopsisAnnotation.tsv
 - GrapherDirections.txt
 
-The GEM folder should contain:
-- GEMGrapher.R
-- GEMRegress.R
+GEMFiles folder containing:
 - ArabidopsisAnnotation.tsv
 - BolRPKMTASSEL.txt
 - GrapherDirections.txt
 - Marker_to_At_Bol.csv
+
+
 
 ### SNP
 To graph your TASSEL outputs, open SNPGrapher.R in RStudio.
